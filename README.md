@@ -36,7 +36,6 @@ Print out the results of the following:
 3. Multiply the two variables together
 4. Divide one variable from the other
 
----
 
 **Challenge 2 - Strings & Concatenation**
 
@@ -44,21 +43,18 @@ Create a new variable. Assign it a string value.
 Create another variable. Assign it to another string value. 
 Concatenate (add) the two strings together. Should there be a space between the two strings? If so, add in the space as well.
 
----
 
 **Challenge 3 - Strings & Interpolation**
 
 Create a new variable called `name` which is assigned to your own name.  
 Print out a string that says `Hello, your_name - welcome to coding!` . Replace `your_name` with the variable `name` via interpolation (i.e. `#{variable_placed_here}`).
 
----
 
 **Challenge 4 - Arrays**
 
 Create a new variable.
 Assign your variable to an array full of animals. Have at least 4 animals in your array. 
 
----
 
 **Challenge 5 - Arrays & Indices**
 
@@ -69,7 +65,6 @@ Use the array below:
 1. Print out the first student of this array.
 2. Print out the third student of this array. 
 
----
 
 **Challenge 4 - Arrays & Values**
 
@@ -78,6 +73,5 @@ Use the array below:
 Print out the first letter of the first element of this array. 
 
 ---
-
 
 ### Section 2 | Conditionals, Loops, & Iterators
