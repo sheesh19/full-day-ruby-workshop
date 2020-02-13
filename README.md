@@ -137,7 +137,7 @@ Create a method called `dating_app` that takes 2 or more aguments (hobbies, age,
 3. Inside the folder, create another file `responses.rb`
 4. Run your ruby file from your terminal with `ruby responses.rb`
 
-**Challenge 11 - Create Your Interface**
+**Challenge 12 - Create Your Interface**
 
 Open your `responses.rb` file in Sublime. 
 
