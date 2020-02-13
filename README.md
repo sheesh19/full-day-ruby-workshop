@@ -110,5 +110,45 @@ Print out the second element of the array, but only after having checked if it s
 
 Time to combine everything you learned! Print out all names that start with an "H". You must use an `each` loop and an if statement. 
 
+---
 
+### Section 3 | Methods
+
+---
+
+**Challenge 10 - Methods**
+
+students = ["Draco", "Harry", "Hermione", "Luna"]
+
+Create a method that prints out all students names (on one line) that start with a specific letter. The method must take two parameters: 1) An array of students 2) A letter
+
+**Challenge 11 - Methods**
+
+Create a method called `dating_app` that takes 2 or more aguments (hobbies, age, IQ, sense of humor, etc.). This method should let you know whether the person is a good match for you. 😉
+
+---
+
+### Section 3 | Create a Ruby Program
+
+---
+
+1. Create a new folder
+2. Inside the new folder, create a new file `interface.rb`
+3. Inside the folder, create another file `responses.rb`
+4. Run your ruby file from your terminal with `ruby responses.rb`
+
+**Challenge 11 - Create Your Interface**
+
+Open your `responses.rb` file in Sublime. 
+
+Let's build a terminal application that takes inputs from users and responds directly in the terminal. 
+
+1. Create a new method called `response`. Have it take one parameter- which will be a sentence from the user. 
+2. Lets create the conditions: 
+- If the parameter is `I will take the Ring to Mordor.` Return with `You have my bow and my axe.`
+- If the parameter is `You're a wizard, Harry.` Return with `I'm a what?`.
+- If the parameter ends with a "?", return with `I'm the captain now!`. 
+- If the parameter is `Gotta catch em all.` return with `Pokemon`. 
+
+3. Test out your code! Call the method at the bottom of your `responses.rb` file and provide different parameters to see if your code works- make sure each of the scenarios work. 
 
