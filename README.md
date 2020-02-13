@@ -23,8 +23,9 @@ If you have downloaded a text editor like [Sublime](http://www.sublimetext.com/3
 
 ---
 
-
 ### Section 1 | Data Types & Variables
+
+---
 
 **Challenge 1 - Integers**
 
@@ -92,7 +93,6 @@ Print out the first letter of the first element of this array.
 
 Print out the second element of the array, but only after having checked if it starts with an "H". Use an if statement.
 
----
 
 **Challenge 8 - Loops & Each Iterator**
 
@@ -102,7 +102,7 @@ Print out the second element of the array, but only after having checked if it s
 2. Print out all the names in this array using `while`.
 3. Print out all the names in this array using `each`.
 
----
+
 
 **Challenge 9 - Conditionals & Iterators**
 
@@ -110,5 +110,5 @@ Print out the second element of the array, but only after having checked if it s
 
 Time to combine everything you learned! Print out all names that start with an "H". You must use an `each` loop and an if statement. 
 
----
+
 
