@@ -58,6 +58,8 @@ Print out a string that says `Hello, your_name - welcome to coding!` . Replace `
 
 Create a new variable.
 Assign your variable to an array full of animals. Have at least 4 animals in your array. 
+Add another item into your array. Use the `<<` syntax. 
+Add another item into your array. Use the `+` syntax.
 
 
 **Challenge 5 - Arrays & Indices**
@@ -65,19 +67,48 @@ Assign your variable to an array full of animals. Have at least 4 animals in you
 
 Use the array below:
 
-`students = ["Draco", "Harry", "Hermione", "Luna"]`
+`students = ["Draco", "Harry", "Hermione", "Frodo", "Samwise"]`
 
 1. Print out the first student of this array.
 2. Print out the third student of this array. 
 
 
-**Challenge 4 - Arrays & Values**
+**Challenge 6 - Arrays & Values**
 
 
-`students = ["Draco", "Harry", "Hermione", "Luna"]`
+`students = ["Draco", "Harry", "Hermione", "Frodo", "Samwise"]`
 
 Print out the first letter of the first element of this array. 
 
 ---
 
 ### Section 2 | Conditionals, Loops, & Iterators
+
+---
+
+**Challenge 7 - Conditionals**
+
+`students = ["Draco", "Harry", "Hermione", "Frodo", "Samwise"]`
+
+Print out the second element of the array, but only after having checked if it starts with an "H". Use an if statement.
+
+---
+
+**Challenge 8 - Loops & Each Iterator**
+
+`students = ["Draco", "Harry", "Hermione", "Frodo", "Samwise"]`
+
+1. Print out all names in this array using `for`.
+2. Print out all the names in this array using `while`.
+3. Print out all the names in this array using `each`.
+
+---
+
+**Challenge 9 - Conditionals & Iterators**
+
+`students = ["Draco", "Harry", "Hermione", "Frodo", "Samwise"]`
+
+Time to combine everything you learned! Print out all names that start with an "H". You must use an `each` loop and an if statement. 
+
+---
+
