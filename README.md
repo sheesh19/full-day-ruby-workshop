@@ -147,7 +147,7 @@ Create a new file named `user_input.rb`.
 3. Inside the folder, create another file `responses.rb`
 4. Run your ruby file from your terminal with `ruby responses.rb`
 
-**Challenge 12 - Create Your Interface**
+**Challenge 13 - Create Your Interface**
 
 Open your `responses.rb` file in Sublime. 
 
