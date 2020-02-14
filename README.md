@@ -3,7 +3,7 @@
 
 Solve the following challenges with your workshop buddy (pair programming).
 
-Here are the [Slides with Examples](https://bit.ly/2XVdfpl)
+Here are the [Slides with Examples](tiny.cc/pq00jz)
 
 Cheatsheet for [Mac & Linux Users](https://www.slideshare.net/paalringstad/command-cheatsheets-mac)
 
@@ -14,6 +14,9 @@ You can either use an online tool:
 Use the online Ruby compiler [here](https://repl.it/languages/ruby)
 
 OR
+
+Download Ruby for [Windows](https://rubyinstaller.org/downloads/)
+Install rbenv + Ruby for [Macs](https://github.com/rbenv/rbenv#homebrew-on-macos)
 
 If you have downloaded a text editor like [Sublime](http://www.sublimetext.com/3) & downloaded Ruby you can: 
 
@@ -175,14 +178,14 @@ Let's build a terminal application that takes inputs from users and responds dir
 
 #### Further Resources: 
 
-If you want to learn more about HTML & CSS, here are some great resources: 
-- [W3Schools | HTML](https://www.w3schools.com/tags/tag_img.asp)
-- [W3Schools | CSS](https://www.w3schools.com/css/)
-- [Codecademy's Online Tutorial](https://www.codecademy.com/catalog/language/html-css)
+If you want to learn more about Ruby, here are some great resources: 
+- [Ruby Tutorial](http://rubylearning.com/satishtalim/tutorial.html)
+- [Ruby Documentation](https://ruby-doc.org/)
+- [Codecademy's Online Tutorial](https://www.codecademy.com/learn/learn-ruby)
 
 If you need any help, feel free to reach out to me at:
 
 [LinkedIn](https://www.linkedin.com/in/sheilaleveille/)
 [Personal Website](www.sheilaleveille.com)
 
-The [Slide Deck](https://bit.ly/2sRFc6r) from today. 
+The [Slide Deck](tiny.cc/pq00jz) from today. 
