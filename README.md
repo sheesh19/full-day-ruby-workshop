@@ -172,3 +172,17 @@ Let's build a terminal application that takes inputs from users and responds dir
 8. Puts out a final line to end the program. 
 9. Run your `interface.rb` file with `ruby interface.rb` & make sure your application work!
 
+
+#### Further Resources: 
+
+If you want to learn more about HTML & CSS, here are some great resources: 
+- [W3Schools | HTML](https://www.w3schools.com/tags/tag_img.asp)
+- [W3Schools | CSS](https://www.w3schools.com/css/)
+- [Codecademy's Online Tutorial](https://www.codecademy.com/catalog/language/html-css)
+
+If you need any help, feel free to reach out to me at:
+
+[LinkedIn](https://www.linkedin.com/in/sheilaleveille/)
+[Personal Website](www.sheilaleveille.com)
+
+The [Slide Deck](https://bit.ly/2sRFc6r) from today. 
