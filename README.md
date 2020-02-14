@@ -3,7 +3,7 @@
 
 Solve the following challenges with your workshop buddy (pair programming).
 
-Here are the [Slides with Examples](tiny.cc/pq00jz)
+Here are the [Slides with Examples](tiny.cc/pq00jz) / tiny.cc/pq00jz
 
 Cheatsheet for [Mac & Linux Users](https://www.slideshare.net/paalringstad/command-cheatsheets-mac)
 
@@ -215,4 +215,4 @@ If you need any help, feel free to reach out to me at:
 [LinkedIn](https://www.linkedin.com/in/sheilaleveille/)
 [Personal Website](www.sheilaleveille.com)
 
-The [Slide Deck](tiny.cc/pq00jz) from today. 
+The [Slide Deck](tiny.cc/pq00jz) from today. | tiny.cc/pq00jz
