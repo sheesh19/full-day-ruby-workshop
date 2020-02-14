@@ -128,6 +128,16 @@ Create a method called `dating_app` that takes 2 or more aguments (hobbies, age,
 
 ---
 
+**Challenge 12 - User Input**
+
+Create a new file named `user_input.rb`. 
+1. Puts out a line to your terminal. 
+2. Save user input to a variable. Make sure to use `gets.chomp`
+3. Puts out the user input back to the terminal. 
+4. Run the program with `ruby user_input.rb` and make sure it works! 
+
+---
+
 ### Section 3 | Create a Ruby Program
 
 ---
@@ -149,6 +159,16 @@ Let's build a terminal application that takes inputs from users and responds dir
 - If the parameter is `You're a wizard, Harry.` Return with `I'm a what?`.
 - If the parameter ends with a "?", return with `I'm the captain now!`. 
 - If the parameter is `Gotta catch em all.` return with `Pokemon`. 
+- If the parameter is `G'day, mate`, return an empty string: `''`. 
 
 3. Test out your code! Call the method at the bottom of your `responses.rb` file and provide different parameters to see if your code works- make sure each of the scenarios work. 
+
+
+4. Next, navigate to your `interface.rb` file. At the top, write `require_relative 'response'`. This will let you use the code in the `response.rb` file. 
+5. Next, write an intro line for your code. Print this line to your terminal. Test that it works by running `ruby interface.rb` in your terminal- you should see your intro line on your terminal. 
+6. You want the program to take user input. Make sure to ask for input & save the user input to a variable. 
+7. How can you pass the user input & get the `response` method to response? How do you call the method? Call the method & save the result to a variable. 
+7. Next, we'll use `while` loops! We want the program to loop until the the `response` method returns an empty string: `''`. 
+8. Puts out a final line to end the program. 
+9. Run your `interface.rb` file with `ruby interface.rb` & make sure your application work!
 
