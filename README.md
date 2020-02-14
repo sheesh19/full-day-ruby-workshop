@@ -86,18 +86,45 @@ Print out the first letter of the first element of this array.
 
 ---
 
+**Challenge 7 - Hashes**
+
+
+`ben = { 
+  'age' => 27, 
+  'hobbies' => ['climbing', 'cooking', 'ranting'],
+  'catchphrase' => 'Gotta Catch Em All'
+}`
+
+
+Get used to hashes! 
+- Return 27. 
+- Return the catchphrase.
+- Return his last hobby.
+
+
+---
+
+**Challenge 8 - Hashes**
+
+
+Create a new variable that is your name.
+Assign your variable to a new hash. Create four sets of key - value pairs about yourself in the hash. 
+
+
+---
+
 ### Section 2 | Conditionals, Loops, & Iterators
 
 ---
 
-**Challenge 7 - Conditionals**
+**Challenge 9 - Conditionals**
 
 `students = ["Draco", "Harry", "Hermione", "Frodo", "Samwise"]`
 
 Print out the second element of the array, but only after having checked if it starts with an "H". Use an if statement.
 
 
-**Challenge 8 - Loops & Each Iterator**
+**Challenge 10 - Loops & Each Iterator**
 
 `students = ["Draco", "Harry", "Hermione", "Frodo", "Samwise"]`
 
@@ -107,7 +134,7 @@ Print out the second element of the array, but only after having checked if it s
 
 
 
-**Challenge 9 - Conditionals & Iterators**
+**Challenge 11 - Conditionals & Iterators**
 
 `students = ["Draco", "Harry", "Hermione", "Frodo", "Samwise"]`
 
@@ -119,19 +146,19 @@ Time to combine everything you learned! Print out all names that start with an "
 
 ---
 
-**Challenge 10 - Methods**
+**Challenge 12 - Methods**
 
 students = ["Draco", "Harry", "Hermione", "Luna"]
 
 Create a method that prints out all students names (on one line) that start with a specific letter. The method must take two parameters: 1) An array of students 2) A letter
 
-**Challenge 11 - Methods**
+**Challenge 13 - Methods**
 
 Create a method called `dating_app` that takes 2 or more aguments (hobbies, age, IQ, sense of humor, etc.). This method should let you know whether the person is a good match for you. 😉
 
 ---
 
-**Challenge 12 - User Input**
+**Challenge 14 - User Input**
 
 Create a new file named `user_input.rb`. 
 1. Puts out a line to your terminal. 
@@ -150,7 +177,7 @@ Create a new file named `user_input.rb`.
 3. Inside the folder, create another file `responses.rb`
 4. Run your ruby file from your terminal with `ruby responses.rb`
 
-**Challenge 13 - Create Your Interface**
+**Challenge 15 - Create Your Interface**
 
 Open your `responses.rb` file in Sublime. 
 
