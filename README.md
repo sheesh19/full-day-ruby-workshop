@@ -198,7 +198,7 @@ Let's build a terminal application that takes inputs from users and responds dir
 5. Next, write an intro line for your code. Print this line to your terminal. Test that it works by running `ruby interface.rb` in your terminal- you should see your intro line on your terminal. 
 6. You want the program to take user input. Make sure to ask for input & save the user input to a variable. 
 7. How can you pass the user input & get the `response` method to response? How do you call the method? Call the method & save the result to a variable. 
-7. Next, we'll use `while` loops! We want the program to loop until the the `response` method returns an empty string: `''`. 
+7. Next, we'll use `while` loops! We want the program to loop until the the `response` method returns an empty string: `''`. above your `while` loop you need to set `response = nil`. While `response != nil` could work as a condition for your while loop.
 8. Puts out a final line to end the program. 
 9. Run your `interface.rb` file with `ruby interface.rb` & make sure your application work!
 
