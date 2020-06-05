@@ -3,14 +3,14 @@
 
 Solve the following challenges with your workshop buddy (pair programming).
 
-Here are the Slides: tiny.cc/pq00jz) | [shorturl.at/gkILP](shorturl.at/gkILP)
+Here are the slides: tiny.cc/pq00jz)
 
 Cheatsheet for [Mac & Linux Users](https://www.slideshare.net/paalringstad/command-cheatsheets-mac)
 
 Cheatsheet for [Windows Users](https://www.slideshare.net/paalringstad/command-cheatsheets-windows-138186563)
 
 
-You can either use an online tool: 
+You can either use: 
 Use the online Ruby compiler [here](https://repl.it/languages/ruby)
 
 OR
