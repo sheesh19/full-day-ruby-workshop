@@ -172,10 +172,17 @@ Create a new file named `user_input.rb`.
 
 ---
 
+If you are running files on your laptop: 
+
 1. Create a new folder
 2. Inside the new folder, create a new file `interface.rb`
 3. Inside the folder, create another file `responses.rb`
 4. Run your ruby file from your terminal with `ruby responses.rb`
+
+If you are running files on your Ruby compiler: 
+
+1. Clear your `main.rb`
+2. Create a new file `responses.rb`
 
 **Challenge 15 - Create Your Interface**
 
